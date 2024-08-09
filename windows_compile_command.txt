@@ -1,0 +1,1 @@
+gcc main.c -o main.exe -LC:/tools/msys64/mingw64/lib -lopengl32 -lglew32 -lglfw3
